@@ -1,0 +1,21 @@
+Background
+
+Mobile:
+	Car
+	Drone
+	Pedestrian/Person
+	Bicyclist
+
+
+
+Stationary:
+	Building
+		Wall
+		Roof
+		Window
+	Fence
+	Sky
+	Tree
+	Road
+		Sidewalk
+	Water
